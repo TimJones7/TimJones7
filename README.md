@@ -22,13 +22,13 @@
 
 <hr/>
 
-- 🔭 I’m currently working on **Kittie-Cache**
+- 🔭 I’m currently working on **AWS  Certs & getting promoted!**
 
-- 🌱 I’m currently learning **nginx, docker, CI/CD**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 See my projects at [https://www.timothyjones.dev/](https://www.timothyjones.dev/)
 
-- 💬 Ask me about **ASP.NET, Javascript, SQL, MongoDB, TailwindCSS, Microservices**
+- 💬 Ask me about **ASP.NET, Javascript, SQL, MongoDB, TailwindCSS, Microservices, CI/CD**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1HIL3PH7aaUzH_rTHMQJC6UC3msWaPlsZpGj5E90zdUU/edit](https://docs.google.com/document/d/1HIL3PH7aaUzH_rTHMQJC6UC3msWaPlsZpGj5E90zdUU/edit)
 
