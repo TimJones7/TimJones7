@@ -54,10 +54,4 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
 </p>
 
-<hr/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.x.com/attimjones/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="https://www.x.com/attimjones" height="60" width="60" /></a>
-</p>
 
-</hr>
