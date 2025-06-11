@@ -17,11 +17,11 @@
 <br/> 
 <hr/>
 
-- 🔭 I’m currently working on **TimKit!**
+- 🔭 I’m currently working on **Distancing myself from technology!**
 
 - 🌱 I’m currently learning **To drink more water**
   
-- 💬 Ask me about **Anything Cloud, Linode, AWS, IaC, Automation, Machine Learning, CI/CD, Databases, Networking, Novel Solutions**
+- 💬 Ask me about **Anything Cloud, Linode, AWS, IaC, Automation, Machine Learning, CI/CD, Databases, Networking, Novel Solutions, and why technology is pure evil and a waste of time**
  
 - ⚡ Fun fact: **You're now aware that the back left side of your head itches**
 
